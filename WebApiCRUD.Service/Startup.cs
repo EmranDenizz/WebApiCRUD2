@@ -30,7 +30,7 @@ namespace WebApiCRUD.Service
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApiCRUD.Service", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Customer API", Version = "v1" });
             });
         }
 

@@ -1,7 +1,10 @@
-﻿using System;
+﻿using Dapper;
+using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Text;
 using System.Threading.Tasks;
+using WebApiCRUD.Business.Helpers;
 using WebApiCRUD.Business.Request;
 
 namespace WebApiCRUD.Business.Repository
@@ -27,9 +30,12 @@ namespace WebApiCRUD.Business.Repository
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<Customer>> GetAll()
+        public async Task<IEnumerable<Customer>> GetAll()
         {
-            throw new NotImplementedException();
+            await using(var connection = new SqlConnection(GetSettings.ConnectionString))
+            {
+                return await connection.QueryAsync<Customer>(QueryStrings.GetAllCustomers, commandType: System.Data.CommandType.StoredProcedure);
+            }
         }
 
         public Task<Customer> GetById(int id)

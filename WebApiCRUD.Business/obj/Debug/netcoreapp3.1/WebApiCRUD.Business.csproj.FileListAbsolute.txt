@@ -1,0 +1,9 @@
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\bin\Debug\netcoreapp3.1\WebApiCRUD.Business.deps.json
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\bin\Debug\netcoreapp3.1\WebApiCRUD.Business.dll
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\bin\Debug\netcoreapp3.1\WebApiCRUD.Business.pdb
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\obj\Debug\netcoreapp3.1\WebApiCRUD.Business.csprojAssemblyReference.cache
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\obj\Debug\netcoreapp3.1\WebApiCRUD.Business.AssemblyInfoInputs.cache
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\obj\Debug\netcoreapp3.1\WebApiCRUD.Business.AssemblyInfo.cs
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\obj\Debug\netcoreapp3.1\WebApiCRUD.Business.csproj.CoreCompileInputs.cache
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\obj\Debug\netcoreapp3.1\WebApiCRUD.Business.dll
+C:\Users\PCX\Desktop\.Net Core ile Dapper kullanımı\WebApiCRUD\WebApiCRUD.Business\obj\Debug\netcoreapp3.1\WebApiCRUD.Business.pdb
